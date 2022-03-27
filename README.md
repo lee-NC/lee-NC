@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lee-NC
+- 👀 I’m interested in java
+- 🌱 I’m currently learning backend web
+- 💞️ I’m looking to collaborate on backend
